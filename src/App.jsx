@@ -128,7 +128,7 @@ function App() {
 
       <footer className="footer">
         <div className="container">
-          <p>&copy; 2024 北捷探索指南. 為旅人打造.</p>
+          <p>&copy; 2025 北捷探索指南. Created by Sam Wang & Gemini 3.</p>
         </div>
       </footer>
     </div>
